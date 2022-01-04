@@ -1,0 +1,16 @@
+D:\VS\BaiThi.Net\BaiThi.Net\bin\Debug\BaiThi.Net.exe.config
+D:\VS\BaiThi.Net\BaiThi.Net\bin\Debug\BaiThi.Net.exe
+D:\VS\BaiThi.Net\BaiThi.Net\bin\Debug\BaiThi.Net.pdb
+D:\VS\BaiThi.Net\BaiThi.Net\obj\Debug\BaiThi.Net.csproj.AssemblyReference.cache
+D:\VS\BaiThi.Net\BaiThi.Net\obj\Debug\BaiThi.Net.csproj.SuggestedBindingRedirects.cache
+D:\VS\BaiThi.Net\BaiThi.Net\obj\Debug\BaiThi.Net.FormQLDeTai.resources
+D:\VS\BaiThi.Net\BaiThi.Net\obj\Debug\BaiThi.Net.Properties.Resources.resources
+D:\VS\BaiThi.Net\BaiThi.Net\obj\Debug\BaiThi.Net.csproj.GenerateResource.cache
+D:\VS\BaiThi.Net\BaiThi.Net\obj\Debug\BaiThi.Net.csproj.CoreCompileInputs.cache
+D:\VS\BaiThi.Net\BaiThi.Net\obj\Debug\BaiThi.Net.exe
+D:\VS\BaiThi.Net\BaiThi.Net\obj\Debug\BaiThi.Net.pdb
+D:\VS\BaiThi.Net\BaiThi.Net\bin\Debug\EntityFramework.dll
+D:\VS\BaiThi.Net\BaiThi.Net\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS\BaiThi.Net\BaiThi.Net\bin\Debug\EntityFramework.xml
+D:\VS\BaiThi.Net\BaiThi.Net\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS\BaiThi.Net\BaiThi.Net\obj\Debug\BaiThi.Net.formCTDeTai.resources
